@@ -45,6 +45,32 @@ Telegraf é uma biblioteca que facilita o desenvolvimento de bots do Telegram us
 - Compatível com webhooks `http/https/fastify/Connect.js/express.js`
 - Extensível
 
+### Telegram token
+
+To use the [Telegram Bot API](https://core.telegram.org/bots/api),
+you first have to [get a bot account](https://core.telegram.org/bots)
+by [chatting with BotFather](https://core.telegram.org/bots#6-botfather).
+
+BotFather will give you a _token_, something like `123456789:AbCdefGhIJKlmNoPQRsTUVwxyZ`.
+
+### Instalação 
+
+```shellscript
+$ npm install telegraf
+```
+
+or
+
+```shellscript
+$ yarn add telegraf
+```
+
+or
+
+```shellscript
+$ pnpm add telegraf
+```
+
 ### Exemplo
 
 ```js
