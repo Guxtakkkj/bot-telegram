@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/logo.svg" alt="logo" height="90" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="logo" height="90" align="center">
   <h1 align="center">telegraf.js</h1>
 
   <p>Framework moderno da API de Bots do Telegram para Node.js</p>
